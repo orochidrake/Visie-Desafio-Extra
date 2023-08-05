@@ -59,7 +59,7 @@ export default function App() {
       }
     }
     Swal.fire({
-      title: 'Os numeros fornecidos não possuim nenhuma combinação!',
+      title: 'Não há soma de igual valor entre os conjuntos!',
       text: 'O resultado é 0',
     });
 
